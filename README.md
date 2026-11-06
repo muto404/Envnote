@@ -21,7 +21,7 @@
 
 首版面向 **Apple Silicon Mac（M 系列芯片）**。Intel Mac 和 Windows 尚未提供经过验证的安装包。
 
-下载包尚未公开发布。发布后可从本仓库的 Releases 获取：
+从 [GitHub Releases](https://github.com/Muto404/Envnote/releases/latest) 下载 DMG 或 ZIP：
 
 1. 下载并解压 ZIP，或打开 DMG。
 2. 将 `Envnote.app` 拖到“应用程序”文件夹。
